@@ -1,4 +1,4 @@
 ---
 layout: pdf_redirect
-redirect: DiffusionMRIanalysis.pdf
+redirect: DiffusionMRIAnalysis.pdf
 ---
