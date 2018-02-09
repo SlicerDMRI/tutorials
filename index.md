@@ -1,0 +1,1 @@
+Please visit [https://dmri.slicer.org/docs](https://dmri.slicer.org/docs) for documentation, or [https://github.com/SlicerDMRI/tutorials](https://github.com/SlicerDMRI/tutorials) for the source of this directory.
