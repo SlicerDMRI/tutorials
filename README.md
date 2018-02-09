@@ -2,6 +2,11 @@
 
 This repository holds the SlicerDMRI tutorial PDFs and source PowerPoint pptx files.
 
+## Tutorial data
+
+Data for each tutorial is attached to the [releases section of this repository](https://github.com/SlicerDMRI/tutorials/releases).
+  - TODO
+
 ## Updating tutorials
 
 - check out the repository (make sure to do this on a fast connection, because the repository is large due to images)
