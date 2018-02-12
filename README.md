@@ -2,6 +2,8 @@
 
 This repository holds the SlicerDMRI tutorial PDFs and source PowerPoint pptx files.
 
+This repository also generates a permalink address for each tutorial, under `dmri.slicer.org/tutorials`. See `index.md` in each of the sub-folders for the redirect target. The actual redirect is generated in `_layouts/pdf_redirect.html`, and based on the `ver_subdir: Slicer-4.8` variable in `_config.yml`.
+
 ## Tutorial data
 
 Data for each tutorial is attached to the [releases section of this repository](https://github.com/SlicerDMRI/tutorials/releases).
